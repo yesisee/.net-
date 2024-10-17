@@ -1,0 +1,2 @@
+1.先拉取SqlServer镜像文件
+  docker pull mcr.microsoft.com/mssql/server:2022-latest
